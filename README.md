@@ -4,7 +4,7 @@
 
 This repository contains a JavaScript project that generates personalized "Awesome Mix" playlists for each of the Guardians of the Galaxy. The playlists are tailored based on the musical preferences of each Guardian. The project involves manipulating arrays and objects, using the map() function for data transformation, and dynamically updating the DOM based on the generated playlists.
 
-![alt text](JSL05_solution.png)
+![JSL05_solution](https://github.com/Dimpho-Molepo/DIMMOL405_BCL2401_GroupA_Dimpho-Molepo_JSL05/assets/136012291/3877e526-385c-4c9c-abea-719d763388a2)
 
 ## Getting Started
 
